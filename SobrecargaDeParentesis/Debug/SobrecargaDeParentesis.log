@@ -1,0 +1,5 @@
+﻿  SobrecargaParentesis.cpp
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Sobrecargas\SobrecargaDeParentesis\SobrecargaDeParentesis\SobrecargaParentesis.cpp(9,7): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Sobrecargas\SobrecargaDeParentesis\SobrecargaDeParentesis\SobrecargaParentesis.cpp(10,7): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Sobrecargas\SobrecargaDeParentesis\SobrecargaDeParentesis\SobrecargaParentesis.cpp(17,16): warning C4244: 'return': conversión de 'float' a 'int'; posible pérdida de datos
+  SobrecargaDeParentesis.vcxproj -> D:\sofia\Escritorio\Github\C++\Patrones-etc\Sobrecargas\SobrecargaDeParentesis\Debug\SobrecargaDeParentesis.exe
